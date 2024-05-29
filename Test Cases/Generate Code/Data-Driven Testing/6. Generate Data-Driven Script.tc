@@ -30,7 +30,7 @@
       <variableId>205813e2-03fe-4427-804d-012ddd18aa23</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
       <description></description>
       <id>9de76f58-5dd4-458f-9e5a-5af4fa905cc0</id>
       <masked>false</masked>
