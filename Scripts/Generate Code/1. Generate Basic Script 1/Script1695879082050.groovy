@@ -33,5 +33,4 @@ import org.openqa.selenium.Keys as Keys
  * 		5. Click the login button with the id 'Page_Login/btn_Login'
  * 		6. Verify that the appointment div 'Page_CuraAppointment/div_Appointment' exists with timeout 10s
  * 		7. Close the browser
- *
  */
