@@ -25,9 +25,9 @@ import internal.GlobalVariable
 public class MyCustomKeyword {
 
 	/**
-	 * The following prompt is for generating a custom keyword with StudioAssist
-	 * 
-	 * Select the prompt -> Right-click -> StudioAssist -> Generate Code
+	 * The following prompt is for generating a custom keyword with Katalon AI Assistant
+	 *
+	 * Select the prompt -> Right-click -> Katalon AI Assistant -> Generate Code
 	 */
 
 	/*

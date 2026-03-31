@@ -1,6 +1,6 @@
-# StudioAssist Tests
+# Katalon AI Assistant Tests
 
-Navigate to [Sample StudioAssist project](https://docs.katalon.com/docs/get-started/sample-projects/studioassist/sample-studioassist-project) for further details.
+Navigate to [Sample Katalon AI Assistant project](https://docs.katalon.com/get-started/sample-projects/sample-katalon-ai-assistant-project) for further details.
 
 ## Companion products
 

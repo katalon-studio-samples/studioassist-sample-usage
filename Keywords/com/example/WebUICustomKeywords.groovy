@@ -17,9 +17,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
 
 
 /**
- * The following prompt is for explaining a class with StudioAssist
- * 
- * Select the code -> Right-click -> StudioAssist -> Explain Code
+ * The following prompt is for explaining a class with Katalon AI Assistant
+ *
+ * Select the code -> Right-click -> Katalon AI Assistant -> Explain Code
  */
 
 public class WebUICustomKeywords {

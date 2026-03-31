@@ -18,9 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /**
- * The following prompt is for generating code with StudioAssist by separating the objects and variables with the actions
- * 
- * Select the prompt -> Right-click -> StudioAssist -> Generate Code
+ * The following prompt is for generating code with Katalon AI Assistant by separating the objects and variables with the actions
+ *
+ * Select the prompt -> Right-click -> Katalon AI Assistant -> Generate Code
  */
 
 /*

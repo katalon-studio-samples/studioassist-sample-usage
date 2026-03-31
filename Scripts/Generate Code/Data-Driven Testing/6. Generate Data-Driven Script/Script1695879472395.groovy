@@ -18,9 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /**
- * The following prompt is for generating script that uses CSV data file with StudioAssist
- * 
- * Select the prompt -> Right-click -> StudioAssist -> Generate Code
+ * The following prompt is for generating script that uses CSV data file with Katalon AI Assistant
+ *
+ * Select the prompt -> Right-click -> Katalon AI Assistant -> Generate Code
  */
 
 /*

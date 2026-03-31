@@ -18,9 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /**
- * The following prompt is for explaining a regular expression using StudioAssist
- * 
- * Select the code -> Right-click -> StudioAssist -> Explain Code
+ * The following prompt is for explaining a regular expression using Katalon AI Assistant
+ *
+ * Select the code -> Right-click -> Katalon AI Assistant -> Explain Code
  */
 
 String date = '10:03 AM'
